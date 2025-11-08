@@ -1,0 +1,5 @@
+{
+  "name": "Automatic Exam Generator",
+  "description": "An AI-powered application to automatically generate exams based on user-defined criteria. Users can specify the subject, number of questions, difficulty, and question type. The application exports exams to interactive HTML, printable formats, and JSON.",
+  "requestFramePermissions": []
+}
